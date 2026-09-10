@@ -22,9 +22,13 @@
 * [SongCreator](https://arxiv.org/pdf/2409.06029) (diffusion; lei24arxiv): https://songcreator.github.io/
 * [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 
+### streaming/live generation/jamming
+* [SiMe](https://arxiv.org/pdf/2609.07688) (transformer; bretz26arxiv): https://kevin-bretz.github.io/projects/silentmetronome/
+* [liveband](https://arxiv.org/pdf/2606.03803) (transformer; pasini26ismir): https://sonycslparis.github.io/liveband-companion/
+* [stream-music-gen](https://arxiv.org/pdf/2510.22105) (transformer; wu25arxiv): https://lukewys.github.io/stream-music-gen/
+
 ### text-to-music
 * [LatCH](https://arxiv.org/pdf/2603.04366) (diffusion; novack26icassp): https://zacharynovack.github.io/latch/latch.html
-* [stream-music-gen](https://arxiv.org/pdf/2510.22105) (transformer; wu25arxiv): https://lukewys.github.io/stream-music-gen/
 * [AudioMoG](https://arxiv.org/pdf/2509.23727) (diffusion; wang26icme): https://audiomog.github.io/
 * [Stemphonic](https://drive.google.com/file/d/1gipln45hX-2AmMzT-E7HNK-VpFdohD8T/view) (diffusion; wu25arxiv): https://stemphonic-demo.vercel.app/
 * [TVC-MusicGen](https://www.isca-archive.org/interspeech_2025/yang25f_interspeech.pdf) (transformer; yang25interspeech): https://cypress-yang.github.io/TVC-MusicGen_demo/
